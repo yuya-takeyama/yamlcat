@@ -1,4 +1,4 @@
-# yaml2json
+# yamlcat
 
 Concatenate multiple YAML files.
 
@@ -11,7 +11,7 @@ $ go get github.com/yuya-takeyama/yamlcat
 ## Usage
 
 ```
-$ yaml2json file1.yaml file2.yaml...
+$ yamlcat file1.yaml file2.yaml...
 ```
 
 ## License
